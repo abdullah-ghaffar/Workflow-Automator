@@ -1,0 +1,26 @@
+/* Sidebar Styling */
+.dndnode {
+  height: 40px;
+  padding: 10px;
+  border: 1px solid #1a192b;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: grab;
+  margin-bottom: 10px;
+  background: white;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.dndnode.input { border-color: #0041d0; color: #0041d0; }
+.dndnode.email { border-color: #52C41A; color: #52C41A; }
+.dndnode.bill { border-color: #f5222d; color: #f5222d; }
+
+.sidebar {
+  border-right: 1px solid #eee;
+  padding: 15px 10px;
+  width: 200px;
+  background: #fcfcfc;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "workflow-automator-backend",
+  "version": "1.0.0",
+  "description": "Backend API and Queue Producer",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "bullmq": "5.34.4",
+    "cors": "^2.8.6",
+    "dotenv": "16.4.7",
+    "express": "4.21.2",
+    "ioredis": "5.4.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "4.17.21",
+    "@types/node": "22.10.2",
+    "tsx": "4.19.2",
+    "typescript": "5.7.2"
+  }
+}

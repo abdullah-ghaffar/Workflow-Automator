@@ -1,0 +1,12 @@
+# Har folder ke andar ke node_modules ko ignore karo
+**/node_modules/
+**/dist/
+**/.env
+
+# IDE specific folders
+.vscode/
+.idea/
+
+# OS specific files
+Thumbs.db
+.DS_Store
