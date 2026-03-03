@@ -1,6 +1,6 @@
 # 🚀 Workflow Automator (Distributed System)
 
-> A scalable, event-driven workflow automation engine (Zapier/Trello Clone) architected with **Node.js**, **Redis**, and **React Flow**.
+> A scalable, event-driven workflow automation engine architected with **Node.js**, **Redis**, and **React Flow**.
 
 ![Status](https://img.shields.io/badge/Status-MVP_Complete-success)
 ![Tech](https://img.shields.io/badge/Stack-TypeScript_|_Node.js_|_React-blue)
