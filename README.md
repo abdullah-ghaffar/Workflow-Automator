@@ -60,7 +60,7 @@ Follow these steps to set up the distributed environment locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Projects.git
+git clone https://github.com/abdullah-ghaffar/Workflow-Automator.git
 cd Projects/Workflow-Automator
 
 # Install Backend Dependencies
